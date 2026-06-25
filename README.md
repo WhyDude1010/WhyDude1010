@@ -79,15 +79,15 @@ Point of Sale application with inventory and transaction management.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WhyDude1010&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyDude1010&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=WhyDude1010&theme=tokyonight"/>
 
 </p>
 
@@ -104,9 +104,9 @@ Point of Sale application with inventory and transaction management.
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+- GitHub: https://github.com/WhyDude1010
+- LinkedIn: https://linkedin.com/in/wahyusastra
+- Email: wahyuwiguna438@email.com
 
 ---
 
