@@ -8,10 +8,6 @@ Passionate about building useful software, exploring Artificial Intelligence, an
 ---
 
 ## 🚀 About Me
-╔══════════════════════════════════════════════╗
-        AI • Flutter • Python • Laravel
-      Building software that solves problems
-╚══════════════════════════════════════════════╝
 
 🎓 Informatics Engineering Student
 
@@ -94,6 +90,9 @@ Point of Sale application with inventory and transaction management.
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
 
 ---
 
