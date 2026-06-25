@@ -91,9 +91,6 @@ Point of Sale application with inventory and transaction management.
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-
 ---
 
 ## 🎯 Current Goals
